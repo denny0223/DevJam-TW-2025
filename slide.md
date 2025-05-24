@@ -154,6 +154,11 @@ uv export --format requirements.txt > requirements.txt
 
 ---
 
+# Fork the repo
+<a href="https://github.com/denny0223/todo-for-devjam" target="_blank">denny0223/todo-for-devjam</a>
+
+---
+
 # Create a Cloud Run service
 - Connect to repo
 - Set up with Cloud Build
