@@ -147,6 +147,13 @@ uv run fastapi run
 
 ---
 
+# Create requirements.txt
+```bash
+uv export --format requirements.txt > requirements.txt
+```
+
+---
+
 # Create a Cloud Run service
 - Connect to repo
 - Set up with Cloud Build
