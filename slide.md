@@ -168,6 +168,16 @@ fastapi run --port $PORT
 
 ---
 
+# Clean up
+
+## Cloud Run
+- Services
+
+## Cloud Build
+- Triggers
+
+---
+
 # Thanks for listening
 
 <br />
